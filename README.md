@@ -15,5 +15,10 @@ Ecomm_website test automation
 ## 3. ChromeDriver
 - Download the correct version from: [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 
-https://github.com/user-attachments/assets/87b937d5-4c27-4b6f-9960-5ade22908831
+
+https://github.com/user-attachments/assets/31c72c27-845e-477f-a298-0906caecb563
+
+
+https://github.com/user-attachments/assets/5e9b217b-4a58-47b6-947b-89e370d67724
+
 
