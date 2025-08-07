@@ -1,2 +1,16 @@
+
 # Selenium_Automation
 Ecomm_website test automation
+
+# Prerequisites
+
+## 1. Python
+- Version: 3.7+  
+- Install from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+## 2. Google Chrome Browser
+- Version: Match your ChromeDriver version (e.g., Chrome 109 for `chromedriver.exe` used here)  
+- [Find your Chrome version](chrome://settings/help)
+
+## 3. ChromeDriver
+- Download the correct version from: [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
