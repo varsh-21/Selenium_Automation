@@ -1,7 +1,7 @@
 
 # Selenium_Automation
 Ecomm_website test automation
-[URL]([https://tutorialsninja.com](https://tutorialsninja.com/))
+[URL: https://tutorialsninja.com](https://tutorialsninja.com/demo)
 # Prerequisites
 
 ## 1. Python
